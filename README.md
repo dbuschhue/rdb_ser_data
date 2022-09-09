@@ -6,13 +6,13 @@ In this way, we aim to make research more efficient and improve data quality int
 
 Link to research Poster (German): https://www.uni-potsdam.de/de/physikdidaktik/mitarbeiter/davidbuschhueter/gdcp-jahrestagung-2022-in-aachen
 
-## Purposes:
+## Purposes of Data Base
 1. Archiving research data
 2. Data entry
 3. Data deletion
 4. Enabling secondary analysis
 
-## Current Stage of the project: 
+## Current Stage of the project
 1. A conceptual model has been built
 2. A (partial) physical model has been built
 
