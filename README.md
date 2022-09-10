@@ -1,4 +1,4 @@
-# rdb_ser_data: A Relational Database for Research Data from Science Education Research
+# A Relational Database for Research Data from Science Education Research
 
 ## Objective of Project
 Build a relational database for typical quantitative science education research data with a high generalisability for other studies so that it can be used and further developed by different researchers. 
@@ -14,7 +14,15 @@ Link to research Poster (German): https://www.uni-potsdam.de/de/physikdidaktik/m
 
 ## Current Stage of the project
 1. A conceptual model has been built
-2. A (partial) physical model has been built
+2. A logical model built
+  - setting attributes   
+4. A (partial) physical model has been built:
+  - Adding bridge tables
+  - Data types
+  - Relationship setting
+      - choices for primary keys
+      - secondary keys (which relationships are mandatory)
+      - adding bridge tables
 
 **Note**: The database currently serves the purpose of communicating a data model (most of the settings are default settings in MySQLWorkbench 8.0). The database cannot be implemented at this stage and is not tested.
 
