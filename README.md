@@ -1,3 +1,5 @@
+# View Readme as github page: https://dbuschhue.github.io/rdb_ser_data/
+
 # A Relational Database for Research Data from Science Education Research
 
 ## Objective of Project
@@ -5,6 +7,7 @@ Build a relational database for typical quantitative science education research 
 In this way, we aim to make research more efficient and improve data quality internally and for FAIR use of data (Wilkinson et al., 2016).
 
 Link to research Poster (German): https://www.uni-potsdam.de/de/physikdidaktik/mitarbeiter/davidbuschhueter/gdcp-jahrestagung-2022-in-aachen
+
 
 ## Purposes of Data Base
 1. Archiving research data
