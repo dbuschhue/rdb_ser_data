@@ -6,7 +6,7 @@ View Readme as github page: https://dbuschhue.github.io/rdb_ser_data/
 Build a relational database for typical quantitative science education research data with a high generalisability for other studies so that it can be used and further developed by different researchers. 
 In this way, we aim to make research more efficient and improve data quality internally and for FAIR use of data (Wilkinson et al., 2016).
 
-Link to research Poster (German): https://www.uni-potsdam.de/de/physikdidaktik/mitarbeiter/davidbuschhueter/gdcp-jahrestagung-2022-in-aachen
+Link to coference poster (German): https://www.uni-potsdam.de/de/physikdidaktik/mitarbeiter/davidbuschhueter/gdcp-jahrestagung-2022-in-aachen
 
 
 ## Purposes of Data Base
