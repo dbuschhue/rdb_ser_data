@@ -30,7 +30,7 @@ Link to research Poster (German): https://www.uni-potsdam.de/de/physikdidaktik/m
 **Note**: The database currently serves the purpose of communicating a data model (most of the settings are default settings in MySQLWorkbench 8.0). The database cannot be implemented at this stage and is not tested.
 
 ## Enhanced Entity Relationship Diagram
-![alt text](img/EER.png?raw=true)
+![alt text](EER.png?raw=true)
 
 ## References
 Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A. et al. (2016). Comment: The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 1–9. https://doi.org/10.1038/sdata.2016.18
