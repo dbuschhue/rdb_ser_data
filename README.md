@@ -20,9 +20,9 @@ Link to coference poster (German): https://www.uni-potsdam.de/de/physikdidaktik/
 2. A logical model built
   - setting attributes   
 4. A (partial) physical model has been built:
-  - Adding bridge tables
-  - Data types
-  - Relationship setting
+  - bridge tables
+  - data types
+  - relationship settings
       - choices for primary keys
       - secondary keys (which relationships are mandatory)
       - adding bridge tables
