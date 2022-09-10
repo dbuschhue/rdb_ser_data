@@ -1,4 +1,4 @@
-# View Readme as github page: https://dbuschhue.github.io/rdb_ser_data/
+View Readme as github page: https://dbuschhue.github.io/rdb_ser_data/
 
 # A Relational Database for Research Data from Science Education Research
 
