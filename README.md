@@ -1,4 +1,4 @@
-# rdb_ser_data: A relational database for research data from science education research
+# rdb_ser_data: A Relational Database for Research Data from Science Education Research
 
 ## Objective of Project
 Build a relational database for typical quantitative science education research data with a high generalisability for other studies so that it can be used and further developed by different researchers. 
